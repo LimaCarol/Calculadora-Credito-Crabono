@@ -1,0 +1,1 @@
+O projeto foi proposto pela faculdade com o intuito de calcular a quantidade de CO2 emitido com base no tipo de combustível do automóvel e nas cilindradas em centímetros cúbicos padrão para cada combustível. O codigo foi feito em Python baseado no que aprendemos em sala de aula.
